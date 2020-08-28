@@ -1,0 +1,21 @@
+{
+  "name": "file-renamer",
+  "version": "1.0.0",
+  "description": "A minimal Electron app to rename files in a folder in a user-specific way.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/spencerandhill/FileRenamer",
+  "keywords": [
+    "File Renamer",
+    "Rename Files"
+  ],
+  "author": "Jan R",
+  "license": "MIT License",
+  "devDependencies": {
+    "electron": "^10.1.0",
+    "source-map-loader": "^1.0.2",
+    "ts-loader": "^8.0.3"
+  }
+}
